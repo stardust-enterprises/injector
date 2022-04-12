@@ -1,0 +1,71 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:dev.cbyrne.injector.dsl////PointingToDeclaration/injector/dev.cbyrne.injector.dsl/index.html
+$dokka.location:dev.cbyrne.injector.dsl//afterInvoke/#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/injector/dev.cbyrne.injector.dsl/after-invoke.html
+$dokka.location:dev.cbyrne.injector.dsl//afterInvoke/#kotlin.reflect.KFunction[*]/PointingToDeclaration/injector/dev.cbyrne.injector.dsl/after-invoke.html
+$dokka.location:dev.cbyrne.injector.dsl//beforeAll/#/PointingToDeclaration/injector/dev.cbyrne.injector.dsl/before-all.html
+$dokka.location:dev.cbyrne.injector.dsl//beforeInvoke/#kotlin.String#kotlin.String#kotlin.String/PointingToDeclaration/injector/dev.cbyrne.injector.dsl/before-invoke.html
+$dokka.location:dev.cbyrne.injector.dsl//beforeInvoke/#kotlin.reflect.KFunction[*]/PointingToDeclaration/injector/dev.cbyrne.injector.dsl/before-invoke.html
+$dokka.location:dev.cbyrne.injector.dsl//beforeTail/#/PointingToDeclaration/injector/dev.cbyrne.injector.dsl/before-tail.html
+$dokka.location:dev.cbyrne.injector.dsl//descriptor/#kotlin.Any#kotlin.Array[kotlin.Any]/PointingToDeclaration/injector/dev.cbyrne.injector.dsl/descriptor.html
+$dokka.location:dev.cbyrne.injector.dsl//injectMethod/#kotlin.String#kotlin.String#kotlin.String#dev.cbyrne.injector.position.InjectPosition#kotlin.Boolean#kotlin.Boolean#kotlin.Function2[TypeParam(bounds=[kotlin.Any?]),dev.cbyrne.injector.provider.InjectorParams,kotlin.Unit]/PointingToDeclaration/injector/dev.cbyrne.injector.dsl/inject-method.html
+$dokka.location:dev.cbyrne.injector.dsl//injectMethod/#kotlin.String#kotlin.String#kotlin.String#dev.cbyrne.injector.position.InjectPosition#kotlin.Boolean#kotlin.Boolean#kotlin.Function2[kotlin.Any,dev.cbyrne.injector.provider.InjectorParams,kotlin.Unit]/PointingToDeclaration/injector/dev.cbyrne.injector.dsl/inject-method.html
+$dokka.location:dev.cbyrne.injector.position////PointingToDeclaration/injector/dev.cbyrne.injector.position/index.html
+$dokka.location:dev.cbyrne.injector.position/InjectPosition.BeforeAll///PointingToDeclaration/injector/dev.cbyrne.injector.position/-inject-position/-before-all/index.html
+$dokka.location:dev.cbyrne.injector.position/InjectPosition.BeforeTail///PointingToDeclaration/injector/dev.cbyrne.injector.position/-inject-position/-before-tail/index.html
+$dokka.location:dev.cbyrne.injector.position/InjectPosition.Invoke///PointingToDeclaration/injector/dev.cbyrne.injector.position/-inject-position/-invoke/index.html
+$dokka.location:dev.cbyrne.injector.position/InjectPosition.Invoke/Invoke/#kotlin.String#kotlin.String#kotlin.String#dev.cbyrne.injector.position.InjectPosition.InvokePosition/PointingToDeclaration/injector/dev.cbyrne.injector.position/-inject-position/-invoke/-invoke.html
+$dokka.location:dev.cbyrne.injector.position/InjectPosition.Invoke/descriptor/#/PointingToDeclaration/injector/dev.cbyrne.injector.position/-inject-position/-invoke/descriptor.html
+$dokka.location:dev.cbyrne.injector.position/InjectPosition.Invoke/name/#/PointingToDeclaration/injector/dev.cbyrne.injector.position/-inject-position/-invoke/name.html
+$dokka.location:dev.cbyrne.injector.position/InjectPosition.Invoke/owner/#/PointingToDeclaration/injector/dev.cbyrne.injector.position/-inject-position/-invoke/owner.html
+$dokka.location:dev.cbyrne.injector.position/InjectPosition.Invoke/position/#/PointingToDeclaration/injector/dev.cbyrne.injector.position/-inject-position/-invoke/position.html
+$dokka.location:dev.cbyrne.injector.position/InjectPosition.InvokePosition.AFTER///PointingToDeclaration/injector/dev.cbyrne.injector.position/-inject-position/-invoke-position/-a-f-t-e-r/index.html
+$dokka.location:dev.cbyrne.injector.position/InjectPosition.InvokePosition.BEFORE///PointingToDeclaration/injector/dev.cbyrne.injector.position/-inject-position/-invoke-position/-b-e-f-o-r-e/index.html
+$dokka.location:dev.cbyrne.injector.position/InjectPosition.InvokePosition///PointingToDeclaration/injector/dev.cbyrne.injector.position/-inject-position/-invoke-position/index.html
+$dokka.location:dev.cbyrne.injector.position/InjectPosition///PointingToDeclaration/injector/dev.cbyrne.injector.position/-inject-position/index.html
+$dokka.location:dev.cbyrne.injector.provider////PointingToDeclaration/injector/dev.cbyrne.injector.provider/index.html
+$dokka.location:dev.cbyrne.injector.provider/InjectorParams///PointingToDeclaration/injector/dev.cbyrne.injector.provider/-injector-params/index.html
+$dokka.location:dev.cbyrne.injector.provider/InjectorParams/InjectorParams/#java.util.List<java.lang.Object>#java.util.Map<java.lang.String,java.lang.Object>#dev.cbyrne.injector.provider.ReturnInfo/PointingToDeclaration/injector/dev.cbyrne.injector.provider/-injector-params/-injector-params.html
+$dokka.location:dev.cbyrne.injector.provider/InjectorParams/component1/#/PointingToDeclaration/injector/dev.cbyrne.injector.provider/-injector-params/component1.html
+$dokka.location:dev.cbyrne.injector.provider/InjectorParams/component2/#/PointingToDeclaration/injector/dev.cbyrne.injector.provider/-injector-params/component2.html
+$dokka.location:dev.cbyrne.injector.provider/InjectorParams/component3/#/PointingToDeclaration/injector/dev.cbyrne.injector.provider/-injector-params/component3.html
+$dokka.location:dev.cbyrne.injector.provider/InjectorParams/fields/#/PointingToDeclaration/injector/dev.cbyrne.injector.provider/-injector-params/fields.html
+$dokka.location:dev.cbyrne.injector.provider/InjectorParams/getReturnInfo/#/PointingToDeclaration/injector/dev.cbyrne.injector.provider/-injector-params/get-return-info.html
+$dokka.location:dev.cbyrne.injector.provider/InjectorParams/params/#/PointingToDeclaration/injector/dev.cbyrne.injector.provider/-injector-params/params.html
+$dokka.location:dev.cbyrne.injector.provider/MethodInjector///PointingToDeclaration/injector/dev.cbyrne.injector.provider/-method-injector/index.html
+$dokka.location:dev.cbyrne.injector.provider/MethodInjector/MethodInjector/#kotlin.String#kotlin.String#kotlin.String#dev.cbyrne.injector.position.InjectPosition#kotlin.Boolean#kotlin.Boolean#kotlin.Function2[TypeParam(bounds=[kotlin.Any?]),dev.cbyrne.injector.provider.InjectorParams,kotlin.Unit]/PointingToDeclaration/injector/dev.cbyrne.injector.provider/-method-injector/-method-injector.html
+$dokka.location:dev.cbyrne.injector.provider/MethodInjector/catchFields/#/PointingToDeclaration/injector/dev.cbyrne.injector.provider/-method-injector/catch-fields.html
+$dokka.location:dev.cbyrne.injector.provider/MethodInjector/catchLocals/#/PointingToDeclaration/injector/dev.cbyrne.injector.provider/-method-injector/catch-locals.html
+$dokka.location:dev.cbyrne.injector.provider/MethodInjector/className/#/PointingToDeclaration/injector/dev.cbyrne.injector.provider/-method-injector/class-name.html
+$dokka.location:dev.cbyrne.injector.provider/MethodInjector/code/#/PointingToDeclaration/injector/dev.cbyrne.injector.provider/-method-injector/code.html
+$dokka.location:dev.cbyrne.injector.provider/MethodInjector/descriptor/#/PointingToDeclaration/injector/dev.cbyrne.injector.provider/-method-injector/descriptor.html
+$dokka.location:dev.cbyrne.injector.provider/MethodInjector/method/#/PointingToDeclaration/injector/dev.cbyrne.injector.provider/-method-injector/method.html
+$dokka.location:dev.cbyrne.injector.provider/MethodInjector/position/#/PointingToDeclaration/injector/dev.cbyrne.injector.provider/-method-injector/position.html
+$dokka.location:dev.cbyrne.injector.provider/ReturnInfo///PointingToDeclaration/injector/dev.cbyrne.injector.provider/-return-info/index.html
+$dokka.location:dev.cbyrne.injector.provider/ReturnInfo/ReturnInfo/#/PointingToDeclaration/injector/dev.cbyrne.injector.provider/-return-info/-return-info.html
+$dokka.location:dev.cbyrne.injector.provider/ReturnInfo/ReturnInfo/#boolean#java.lang.Object/PointingToDeclaration/injector/dev.cbyrne.injector.provider/-return-info/-return-info.html
+$dokka.location:dev.cbyrne.injector.provider/ReturnInfo/ReturnInfo/#java.lang.Object/PointingToDeclaration/injector/dev.cbyrne.injector.provider/-return-info/-return-info.html
+$dokka.location:dev.cbyrne.injector.provider/ReturnInfo/cancel/#java.lang.Object/PointingToDeclaration/injector/dev.cbyrne.injector.provider/-return-info/cancel.html
+$dokka.location:dev.cbyrne.injector.provider/ReturnInfo/cancelled/#/PointingToDeclaration/injector/dev.cbyrne.injector.provider/-return-info/cancelled.html
+$dokka.location:dev.cbyrne.injector.provider/ReturnInfo/component1/#/PointingToDeclaration/injector/dev.cbyrne.injector.provider/-return-info/component1.html
+$dokka.location:dev.cbyrne.injector.provider/ReturnInfo/component2/#/PointingToDeclaration/injector/dev.cbyrne.injector.provider/-return-info/component2.html
+$dokka.location:dev.cbyrne.injector.provider/ReturnInfo/returnValue/#/PointingToDeclaration/injector/dev.cbyrne.injector.provider/-return-info/return-value.html
+$dokka.location:dev.cbyrne.injector.transform////PointingToDeclaration/injector/dev.cbyrne.injector.transform/index.html
+$dokka.location:dev.cbyrne.injector.transform/InjectorClassTransformer///PointingToDeclaration/injector/dev.cbyrne.injector.transform/-injector-class-transformer/index.html
+$dokka.location:dev.cbyrne.injector.transform/InjectorClassTransformer/methodInjectors/#/PointingToDeclaration/injector/dev.cbyrne.injector.transform/-injector-class-transformer/method-injectors.html
+$dokka.location:dev.cbyrne.injector.transform/InjectorClassTransformer/transformClass/#java.lang.Class[*]?#java.lang.ClassLoader?#kotlin.String#java.security.ProtectionDomain?#kotlin.ByteArray/PointingToDeclaration/injector/dev.cbyrne.injector.transform/-injector-class-transformer/transform-class.html
+$dokka.location:dev.cbyrne.injector.util////PointingToDeclaration/injector/dev.cbyrne.injector.util/index.html
+$dokka.location:dev.cbyrne.injector.util//addMethod/org.objectweb.asm.tree.ClassNode#codes.som.anthony.koffee.modifiers.Modifiers#kotlin.String#kotlin.String#org.objectweb.asm.tree.InsnList?#kotlin.Function1[codes.som.anthony.koffee.MethodAssembly,kotlin.Unit]?/PointingToDeclaration/injector/dev.cbyrne.injector.util/add-method.html
+$dokka.location:dev.cbyrne.injector.util//getOrError/kotlin.collections.Map[*,*]#kotlin.String/PointingToDeclaration/injector/dev.cbyrne.injector.util/get-or-error.html
+$dokka.location:dev.cbyrne.injector.util//readBytes/java.lang.Class[*]#/PointingToDeclaration/injector/dev.cbyrne.injector.util/read-bytes.html
+$dokka.location:dev.cbyrne.injector////PointingToDeclaration/injector/dev.cbyrne.injector/index.html
+$dokka.location:dev.cbyrne.injector/Injector///PointingToDeclaration/injector/dev.cbyrne.injector/-injector/index.html
+$dokka.location:dev.cbyrne.injector/Injector/inject/#kotlin.String#kotlin.String#kotlin.String#dev.cbyrne.injector.position.InjectPosition#kotlin.Boolean#kotlin.Boolean#kotlin.Function2[TypeParam(bounds=[kotlin.Any?]),dev.cbyrne.injector.provider.InjectorParams,kotlin.Unit]/PointingToDeclaration/injector/dev.cbyrne.injector/-injector/inject.html
+$dokka.location:dev.cbyrne.injector/Injector/inject/#kotlin.String#kotlin.String#kotlin.String#dev.cbyrne.injector.position.InjectPosition#kotlin.Boolean#kotlin.Boolean#kotlin.Function2[kotlin.Any,dev.cbyrne.injector.provider.InjectorParams,kotlin.Unit]/PointingToDeclaration/injector/dev.cbyrne.injector/-injector/inject.html
+dev.cbyrne.injector
+dev.cbyrne.injector.dsl
+dev.cbyrne.injector.position
+dev.cbyrne.injector.provider
+dev.cbyrne.injector.transform
+dev.cbyrne.injector.util
+
